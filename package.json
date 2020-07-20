@@ -81,6 +81,8 @@
         "cypress"
     ],
     "dependencies": {
+        "@types/inflection": "^1.5.28",
+        "react-admin": "^3.7.1",
         "typescript": "^3.5.3"
     }
 }
