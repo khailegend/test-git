@@ -81,6 +81,7 @@
         "cypress"
     ],
     "dependencies": {
+        "react-admin": "^3.7.1",
         "typescript": "^3.5.3"
     }
 }
